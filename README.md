@@ -7,6 +7,10 @@ A new Flutter application.
 - change min sdk to 19
 - Please also read this https://stackoverflow.com/a/63999436
 
+## FCM Notification Test
+
+Please read this https://documenter.getpostman.com/view/3014087/UVeCQ82R. Replace "registration_ids" values with fcm token which generated from device.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
