@@ -1,6 +1,11 @@
 # flutter_notification
 
 A new Flutter application.
+- firebase_messaging: ^11.1.0
+- firebase_core: ^1.10.0
+- flutter_local_notifications: ^6.0.0 
+- change min sdk to 19
+- Please also read this https://stackoverflow.com/a/63999436
 
 ## Getting Started
 
